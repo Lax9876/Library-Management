@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Library Management System
 
 > An automated system to manage a public library. Admin panel for librarians to control and manage the system easily through an interactive interface.
@@ -118,3 +119,6 @@ With the above notes in mind, Windows setup is not too tricky:
 
 
 ![](meta/screencapture-library-local-1450375427449.png)
+=======
+# Library-Management
+>>>>>>> a6acc18b75fe0cf3583e822596054187d214a253
