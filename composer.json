@@ -1,0 +1,29 @@
+{
+  "name": "laravel/laravel",
+  "description": "The Laravel Framework.",
+  "keywords": ["framework", "laravel"],
+  "license": "MIT",
+  "require": {
+    "laravel/framework": "4.2.*"
+  },
+  "autoload": {
+    "classmap": [
+      "app/commands",
+      "app/controllers",
+      "app/models",
+      "app/database/migrations",
+      "app/database/seeds"
+    ]
+  },
+  "scripts": {
+    "post-install-cmd": [],
+    "post-update-cmd": []
+  },
+  "config": {
+    "preferred-install": "dist",
+    "allow-plugins": {
+      "kylekatarnls/update-helper": true
+    }
+  },
+  "minimum-stability": "stable"
+}
